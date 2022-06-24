@@ -134,3 +134,5 @@ gradle-app.setting
 .settings/
 
 .DS_Store
+.idea/.name
+.idea/encodings.xml
